@@ -3,10 +3,6 @@
 README.md
 .env.example
 .eslintrc.json
-next.config.ts
-tsconfig.json
-tailwind.config.ts
-postcss.config.mjs
 eslint.config.mjs
 .vercel
 Vercel Token
